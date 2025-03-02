@@ -1,13 +1,3 @@
-/* // Write your solution in this file!
-const employee = {
-    name : "Martin", 
-    streetAddress : "Hunington Beach",
-}
-function updateEmployeeWithKeyAndValue(employee, key, value){
-    return {...employee [Position], "Manager":}
-}
- */
-
 // Sample employee object
 const employee = {
     name: "John Doe",
